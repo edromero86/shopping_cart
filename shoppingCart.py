@@ -1,6 +1,4 @@
 
-
-# Round 1:
 # Use Python to make a console application. 
 # Parse the shopping cart CSV file and output: 
 # 1. total price per category 
